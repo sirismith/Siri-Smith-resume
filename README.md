@@ -39,6 +39,10 @@ As a volunteer at the EMP Museum, I worked as crowd control and answering questi
 
 ### Education
 
+**CodeAcademy.com** / January 2016-present
+
+100% completed HTML + CSS and JavaScript courses
+
 **Seattle Central College** / January 2016-present
 
 3.54 GPA. Coursework has included introduction to information technology, which required a lot of self-teaching of programming languages on codeacademy.com. Languages I took the liberty in learning included mySQL, Python, and HTML + CSS. This course also introduced us to the fundamentals of Github and collaboration. We also had a week of discussing women in tech. Taking introduction to computer science in the fall, which will give me a more in-depth look at Python.
